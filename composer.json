@@ -1,5 +1,5 @@
 {
-    "name": "nesbot/carbon",
+    "name": "iandyck/carbon",
     "description": "An API extension for DateTime that supports 281 different languages.",
     "license": "MIT",
     "type": "library",
